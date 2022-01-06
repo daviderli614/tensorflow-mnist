@@ -6,7 +6,7 @@ A tensorflow model for testing
 ```
 jupyter notebook list
 New python3
-git clone https://github.com/zhu733756/tensorflow-mnist
+https://github.com/daviderli614/tensorflow-mnist.git
 cd tensorflow-mnist
 python3 mnist.py
 ```
